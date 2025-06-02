@@ -23,6 +23,8 @@ Predict customer churn using AI-driven techniques with a focus on end-to-end aut
 Built a DL-based model that outperforms classical models on selected metrics. Suitable for scaling and productionization.
 
 ## 📁 Structure
-- `AI_Capstone_proj_CustomerChurn.ipynb`: Jupyter Notebook with full pipeline
+- `CustomerChurn_AI-capstone.ipynb`: Jupyter Notebook with full pipeline
+- Datasets: `WA_Fn-UseC_-Telco-Customer-Churn.csv`
+            `customer-churn-data dictionary.xlsx`
 
 ---
